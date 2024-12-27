@@ -61,9 +61,9 @@ pip install numpy pandas matplotlib
 ```  
 📦ml-algorithms-from-scratch  
  ┣ 📂datasets              # Example datasets for testing  
- ┣ 📜linear_regression.py   # Linear Regression implementation  
+ ┣ 📜LinearRegression.py   # Linear Regression implementation  
  ┣ 📜logistic_regression.py # Logistic Regression implementation  
- ┣ 📜decision_tree.py       # Decision Tree implementation  
+ ┣ 📜DecisionTree.py       # Decision Tree implementation  
  ┣ 📜kmeans.py              # K-Means implementation  
  ┣ 📜README.md              # Documentation  
 ```  
