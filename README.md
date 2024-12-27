@@ -73,7 +73,3 @@ Contributions are welcome! Feel free to submit issues or pull requests to add mo
 
 ## License  
 This project is licensed under the [MIT License](LICENSE).  
-
----  
-
-You can customize this template by adding specific examples or including new algorithms as you expand the repository.
