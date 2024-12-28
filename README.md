@@ -54,7 +54,7 @@ pip install numpy pandas matplotlib
    ```  
 3. Run the scripts for individual algorithms. For example:  
    ```bash  
-   python linear_regression.py  
+   python LineaRegression.py  
    ```  
 
 ## Structure  
